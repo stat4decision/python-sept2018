@@ -10,19 +10,19 @@ Pour utiliser les notebooks, veuillez installer Anaconda pour python 3.
 
 ## Organisation des notebooks
 
-[Introduction à python](/notebooks/01_introduction_python.ipynb)
+[Introduction à python](/Notebooks/01_introduction_python.ipynb)
 
-[Introduction à numpy](/notebooks/02_numpy.ipynb)
+[Introduction à numpy](/Notebooks/02_numpy.ipynb)
 
-[La préparation des données](/notebooks/03_pandas.ipynb)
+[La préparation des données](/Notebooks/03_pandas.ipynb)
 
-[La visualisation des données](/notebooks/04_dataviz.ipynb)
+[La visualisation des données](/Notebooks/04_DataViz.ipynb)
 
-[Le machine learning](/notebooks/05_machine_learning.ipynb)
+[Le machine learning](/Notebooks/05_machine_learning.ipynb)
 
-[Les données textuelles](/notebooks/06_text_mining.ipynb)
+[Les données textuelles](/Notebooks/06_text_mining.ipynb)
 
-[Le deep learning](/notebooks/07_deep_learning.ipynb)
+[Le deep learning](/Notebooks/07_deep_learning.ipynb)
 
 
 ## Auteur
